@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/estilos.css">
+    <title>Mundo Coche</title>
+</head>
+<body>
+    <header>
+        <ul class="header">
+            <li><a href="../index.html">Inicio</a></li>
+            <li><a href="galeria.html">Galería</a></li>
+            <li class="actual"><a href="presupuesto.html">Presupuestos</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+            <li><img src="../images/iconoLogo.jpg" alt="logo"></li>
+        </ul>
+        
+    </header>
+
+    <main>
+        <h1>Solicitar presupuestos</h1>
+        <div class="form-container">
+            <form id="presupuesto-form">
+                <div class="form-section">
+                    <h2>Datos de Contacto</h2>
+            
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" maxlength="15" required>
+            
+                    <label for="apellidos">Apellidos:</label>
+                    <input type="text" id="apellidos" name="apellidos" maxlength="40" required>
+            
+                    <label for="telefono">Teléfono:</label>
+                    <input type="tel" id="telefono" name="telefono" maxlength="9" required>
+            
+                    <label for="email">Correo electrónico:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+    
+                <div class="form-section">
+                    <h2>Presupuesto</h2>
+
+                    <label for="producto">Producto:</label>
+                    <select id="producto" name="producto" required>
+                        <option value="" disabled selected>Seleccione un producto</option>
+                    </select>
+            
+                    <label>Extras:</label>
+                    <input type="checkbox" id="extra1" name="extras" value="200"> Pantalla táctil: Sistema de entretenimiento y navegación avanzado  +200€<br>
+                    <input type="checkbox" id="extra2" name="extras" value="420"> Frenada automática de emergencia: Detecta obstáculos y frena automáticamente si es necesario.  +420€<br>
+                    <input type="checkbox" id="extra3" name="extras" value="670"> Llantas de aleación deportivas: Mejoran la estética y a veces también el rendimiento.  +670€<br>
+                    <input type="checkbox" id="extra4" name="extras" value="700"> Tapa del maletero eléctrica: Con apertura y cierre automáticos.  +700€<br>
+                    <input type="checkbox" id="extra5" name="extras" value="370"> Faros LED o Xenon: Mejoran la visibilidad y la estética del vehículo.  +370€<br>
+                    <input type="checkbox" id="extra6" name="extras" value="90"> Cristales tintados: Para mayor privacidad y protección contra el sol.  +90€<br>
+                    <input type="checkbox" id="extra7" name="extras" value="120"> Sistema de carga rápida para dispositivos móviles: Carga de dispositivos electrónicos mediante puertos USB de carga rápida.  +120€<br>
+                    <input type="checkbox" id="extra8" name="extras" value="500"> Parabrisas calefactado: Ayuda a evitar el empañamiento en condiciones frías o lluviosas.  +500€<br>
+                    <br>
+                    <label for="plazo">Plazo (meses):</label>
+                    <input type="number" id="plazo" name="plazo" min="1" required>
+                    <p>*20% de descuento si el plazo supera los 12 meses y 40% si supera los 24<br>Los extras tambien tienen los mismos criterios de descuento</p>
+            
+                    <h3 class="presupuesto">Presupuesto Final: <span id="presupuesto" class="budget">0€</span></h3>
+                </div>
+        
+                <div class="form-section">
+                    <label for="condiciones">
+                    <input type="checkbox" id="condiciones" name="condiciones" required>
+                    Acepto las condiciones de privacidad
+                    </label>
+            
+                    <button type="submit" id="enviar">Enviar</button>
+                    <button type="reset" id="reset">Resetear</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.facebook.com/profile.php?id=61574948876670">
+                    <img src="../images/logoFacebook.jpg" class="redes" alt="logo">
+                </a>
+            </li>
+            <li>
+                <a href="https://x.com/coche_mundo">
+                    <img src="../images/logoTwitter.jpg" class="redes" alt="logo">
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/mundocoche80/">
+                    <img src="../images/logoInstagram.jpg" class="redes" alt="logo">
+                </a>
+            </li>
+        </ul>
+        <address>
+            <strong>Mundo Coche S.L.</strong><br>
+            Av. de Navarra, 93, Delicias, 50017 Zaragoza<br>
+            Teléfono: +34 123 456 789<br>
+            Email: <a href="mailto:contacto@mundocoche.com">contacto@mundocoche.com</a>
+        </address>
+        <p><a href="avisolegal.html">Aviso legal</a></p>
+    </footer>
+    <script src="../js/presupuesto.js"></script>
+</body>
+</html>

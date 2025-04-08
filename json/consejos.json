@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "consejos",
+        "titulo": "Revisión de presión en los neumáticos",
+        "contenido": "Saber cómo mantener la presión de los neumáticos de tu coche puede ayudar a reducir el desgaste de los mismos y mejorar la estabilidad. Para revisar la presión de los neumáticos hay que comprobar la presión recomendada por el fabricante, inflando o desinflando los neumáticos hasta el valor de taraje. La mayoría de turismos ligeros tienen una presión de neumáticos comprendida entre 2 y 3 bares.<br>Un neumático sin las presión adecuada es un peligro para los ocupantes del vehículo, y también afecta al deterioro del coche. En caso de pinchazo, el riesgo aumenta si no tenemos la presión correcta en las ruedas. Hay varios pasos preventivos que pueden tomarse para ayudar a evitar un reventón, por ejemplo realizar la rotación de los neumáticos cada 8.000 a 16.000 kilómetros y la observación de los mismos para comprobar su estado.<br>Te recomendamos mirar este artículo sobre los aspectos que se inspeccionan de los <a href='https://itvlahoya.es/blog/inspeccion-itv-neumaticos/'>neumáticos en la ITV</a>.",
+        "imagen": "images/presionNeumaticos.jpg"
+    },
+    {
+        "nombre": "consejos",
+        "titulo": "Cambiar el aceite",
+        "contenido": "Una buena praxis sería comprobar los niveles de aceite y su estado. Ello contribuye a mantener el motor en buenas condiciones. Es aconsejable revisar el aceite periódicamente y cambiarlo siguiendo las instrucciones que se indican en el manual de mantenimiento del vehículo.<br>Podrías cambiar el aceite tú mismo o llevarlo a un taller autorizado o a un centro especializado. Si vas a hacerlo tú, asegúrate de seguir los pasos indicados en el manual, en particular, para la extracción del líquido, llenado del depósito al nivel de aceite adecuado y llevar el aceite usado al centro de reciclado.<br>También debes conocer qué tipo de aceite es el más idóneo para el motor de tu coche. Es interesante considerar parámetros como la viscosidad del aceite, si utiliza aceite sintético o no sintético y el kilometraje del coche en cuestión.",
+        "imagen": "images/presionAceite.jpg"
+    },
+    {
+        "nombre": "consejos",
+        "titulo": "Mantener el buen estado de las luces",
+        "contenido": "Una bombilla rota o quemada es un riesgo de seguridad y podría costarte más de un disgusto. Es importante que conozcas cómo detectar y sustituir una bombilla fundida. Si una luz está fundida o no se enciende, puedes cambiarla tú mismo o bien ponerte en manos de profesionales para determinar si es la bombilla o el fusible lo que necesita ser reemplazado<br>Los faros son elementos clave para la seguridad en tu coche. Considera tomar algunas medidas adicionales para ayudar a mantenerlos brillantes, como limpiar las lentes, pulir o reemplazar los cristales de los pilotos cuando comiencen a oscurecerse.<br>Si te interesa saber por las luces, mas en concreto por las luces LED y si pasan la ITV, puedes leer <a href='https://itvlahoya.es/luces-led-coche/'>este articulo</a> sobre ello.",
+        "imagen": "images/luces.jpg"
+    }
+]

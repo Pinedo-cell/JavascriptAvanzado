@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "competicion",
+        "titulo": "Marc Márquez se va al suelo en su primer error grave con Ducati y pierde el liderato",
+        "contenido": "El octocampeón besa el asfalto cuando lideraba en Austin, regresa a la carrera en P18, pero al final se ve obligado a retirarse al tener la GP25 muy dañada<br>Marc Márquez ha cometido el primer error grave desde que viste de rojo. El corredor leridano ha besado el asfalto cuando lideraba, con mucha comodidad, la carrera larga de Austin. El '93' ha pisado el blanco en las enlazadas (ha recortado demasiado el piano) y eso ha provocado que haya perdido el control de la GP25. Ha resbalado de tal manera que su moto ha ido perdiendo componentes (se ha quedado en un parpadear de ojos sin el estribo, sin la cúpula, con el mono irreconocible...) hasta quedar sumamente dañada.",
+        "imagen": "images/marquez.jpg"
+    },
+    {
+        "nombre": "competicion",
+        "titulo": "Tsunoda se viene arriba con sus pretensiones de cara al debut con Red Bull en la carrera de casa",
+        "contenido": "'Quiero acabar en el podio', recalca el sustituto del fulminado Liam Lawson con vistas a su primera carrera con la escuadra de Milton Keynes en la cita en Suzuka<br>Max Verstappen tendrá un nuevo compañero en Suzuka. Red Bull despidió en la semana de receso entre la cita de China y la siguiente de Japón a un Liam Lawson que se ha quedado sin asiento en el primer equipo de la escudería de Milton Keynes en lo que dura un parpadear de ojos. Han bastado dos grandes premios para que los severos rectores (con Helmut Marko como buque insignia) hayan decidido ejecutar al neozelandés, quien deberá reconstruir su reputación en Faenza (formará pareja con el debutante Isack Hadjar en el Visa Cash App Racing Bulls).",
+        "imagen": "images/tsunoda-verstappen.jpg"
+    }
+]

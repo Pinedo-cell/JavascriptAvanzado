@@ -1,0 +1,32 @@
+[
+    {
+        "src": "../images/oferta1.jpg",
+        "alt": "RENAULT Kadjar 1.5dCi Blue Business 85kW",
+        "precio": "16900"
+    },
+    {
+        "src": "../images/oferta2.jpg",
+        "alt": "CITROEN Berlingo M1 BlueHDi S&S Talla M Shine 130",
+        "precio": "21999"
+    },
+    {
+        "src": "../images/oferta3.jpg",
+        "alt": "HYUNDAI i20 1.0 TGDI Klass 48V 100",
+        "precio": "17500"
+    },
+    {
+        "src": "../images/oferta4.jpg",
+        "alt": "AUDI Q5 Sportback 50 TFSIe S line quattro-ultra S tronic",
+        "precio": "47900"
+    },
+    {
+        "src": "../images/oferta5.jpg",
+        "alt": "VOLKSWAGEN Polo 1.0 TSI Advance 70kW",
+        "precio": "15890"
+    },
+    {
+        "src": "../images/oferta6.jpg",
+        "alt": "SEAT León ST 1.6TDI CR S&S Style 110",
+        "precio": "15602"
+    }
+  ]
