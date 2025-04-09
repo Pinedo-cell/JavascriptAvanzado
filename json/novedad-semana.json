@@ -3,6 +3,8 @@
         "nombre": "novedad-semana",
         "titulo": "El Aston Martin Valiant",
         "contenido": "Con un precio de más de 2 millones de euros, un V12 biturbo de 745 CV y un salvaje apartado dinámico, Alonso y Q by Aston Martin han dado forma a esta ultra-exclusiva versión del Valour que debutará en el Goodwood Festival of Speed.<br>Así es como nació la última y ultra-exclusiva obra de Aston Martin y su departamento de personalización 'Q'. Se llama Aston Martin Valiant y es el resultado de llevar aún más lejos en rendimiento y sensaciones de conducción el ya brutal Aston Martin Valour.<br>El Valiant nació inicialmente como petición del propio Fernando Alonso, quien después de pasar un tiempo con el Aston Martin Valour, le gustó tanto que pidió al equipo de Aston Martin que creara una variante más radical del mismo. Según Simon Newton, jefe de dinámica de vehículos de la marca, Alonso quería un coche con menos peso y que fuera más divertido, potente y deportivo, con un aspecto inspirado en los coches de competición.El resultado es un coche que mantiene en esencia el diseño retro del Valour, con su gran parrilla, faros redondos y carrocería musculosa, casi de un Muscle Car, a su vez inspirada en el Muncher, pero que ofrece más rendimiento y diversión. Comparte con él su carrocería hecha íntegramente en fibra de carbono, un V12 biturbo de 5.3 litros y, para alegría de muchos puristas, un cambio manual de seis velocidades. Eso sí, ahora ese motor ha subido prestaciones hasta ofrecer unos 745 CV de potencia.",
-        "imagen": "images/astonmartin-variant.jpg"
+        "imagen": "images/astonmartin-variant.jpg",
+        "width":  "1280",
+        "height": "720"
     }
 ]

@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <h3>${noticia.titulo}</h3>
           <div class="texto-foto">
               <p>${noticia.contenido}</p>
-              <img src="${noticia.imagen}" class="${noticia.nombre}" alt="${noticia.nombre}" />
+              <img src="${noticia.imagen}" class="${noticia.nombre}" width="${noticia.width}" height="${noticia.height}" alt="${noticia.nombre}" />
           </div>
         `;
         contenedorNoticias.appendChild(section);
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         section.innerHTML = `
           <h3>${consejo.titulo}</h3>
           <div class="texto-foto">
-              <img src="${consejo.imagen}" class="${consejo.nombre}" alt="${consejo.nombre}" />
+              <img src="${consejo.imagen}" class="${consejo.nombre}" width="${consejo.width}" height="${consejo.height}" alt="${consejo.nombre}" />
               <p>${consejo.contenido}</p>
           </div>
         `;
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <h3>${novedad.titulo}</h3>
           <div class="texto-foto">
               <p>${novedad.contenido}</p>
-              <img src="${novedad.imagen}" class="${novedad.nombre}" alt="${novedad.nombre}" />
+              <img src="${novedad.imagen}" class="${novedad.nombre}" width="${novedad.width}" height="${novedad.height}" alt="${novedad.nombre}" />
           </div>
         `;
         contenedorNovedades.appendChild(section);
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <h3>${novedad.titulo}</h3>
         <div class="texto-foto">
           <p>${novedad.contenido}</p>
-          <img src="${novedad.imagen}" alt="${novedad.nombre}" class="${novedad.nombre}" />
+          <img src="${novedad.imagen}" alt="${novedad.nombre}" width="${novedad.width}" height="${novedad.height}" class="${novedad.nombre}" />
         </div>
       `;
       contenedor.appendChild(section);

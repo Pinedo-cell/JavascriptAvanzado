@@ -13,6 +13,8 @@ document.addEventListener("DOMContentLoaded", () => {
           const img = document.createElement("img");
           img.src = imagen.src;
           img.alt = imagen.alt;
+          img.width = imagen.width;
+          img.height = imagen.height;
           img.classList.add("galeria");
           img.setAttribute("data-lightbox", "galeria");
           ofertaDiv.appendChild(img);

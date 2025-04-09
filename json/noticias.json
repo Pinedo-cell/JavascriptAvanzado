@@ -3,25 +3,33 @@
         "nombre": "noticia1",
         "titulo": "La velocidad de las marcas chinas: solo dos años después de lanzarlo, BYD ya mejora el eléctrico Atto 3",
         "contenido": "Incrementa su equipo de serie y ahora puede recargar su batería a 100 kw en un poste rápido. También lleva mejoras en el chasis. Los precios parten de 30.490 euros.<br>Solo un año después del inicio de las ventas, la marca ya ha procedido a introducir varias mejoras en este automóvil. Y es que en cosas como estas se nota que la empresa cuenta con cerca de 100.000 ingenieros, con grupos que llegan a trabajar en varios desarrollos a la vez de modo que, si uno es fallido, de inmediato se tiene una alternativa.<br>Otras mejoras vienen del lado del equipamiento de serie, con tecnología NFC de llave digital para acceder al vehículo mediante tarjeta, smartphone o smartwatch, volante calefactado, sensor de lluvia, cristales de privacidad y detector de fatiga del conductor.",
-        "imagen": "images/noticia1.jpg"
+        "imagen": "images/noticia1.jpg",
+        "width":  "646",
+        "height": "441"
     },
     {
         "nombre": "noticia2",
         "titulo": "La DGT regala desde este miércoles dos puntos a quienes superen un curso de conducción segura y eficiente",
         "contenido": "Cada curso dura al menos seis horas lectivas, con formación teórica y formación práctica de maniobras y de circulación, y puede realizarse en una o dos sesiones<br>Todo aquel que ande mal de puntos en el carnet de conducir tiene la posibilidad desde este miércoles de sumar un par de puntos extra. La Dirección General de Tráfico (DGT) bonifica con dos puntos adicionales hasta un límite de 15 a las personas conductoras de ciclomotores, motos y coches que superen de forma voluntaria un curso de conducción segura y eficiente, informa Servimedia.Esos cursos, regulados en una orden publicada el pasado 6 de marzo en el Boletín Oficial del Estado (BOE), son voluntarios y suponen un recurso de reciclaje de conductores que quieran mejorar su conducción.",
-        "imagen": "images/noticia2.jpg"
+        "imagen": "images/noticia2.jpg",
+        "width":  "646",
+        "height": "430"
     },
     {
         "nombre": "noticia3",
         "titulo": "Terremoto en SEAT S.A., Wayne Griffiths deja su cargo como CEO de SEAT y CUPRA y abandona la compañía",
         "contenido": "Wayne Griffiths, CEO de las marcas SEAT y CUPRA, ha decidido abandonar por petición propia la compañía. Una noticia inesperada que hace temblar los cimientos de SEAT S.A. a pesar de los buenos resultados obtenidos en 2024. Griffiths ha liderado la puesta en marcha y consolidación de CUPRA como marca independiente de SEAT. Será sustituido temporalmente por Markus Haupt.<br>Desde su nombramiento como CEO de SEAT y CUPRA en 2020, Griffiths ha desempeñado un papel clave en el proceso reestructuración de la compañía y, sobre todo, su liderazgo fue determinante para la consolidación de CUPRA como una marca independiente de SEAT, y dentro del Grupo Volkswagen. Una marca presume de ser una de las que más crece en Europa.Bajo la batuta de Griffiths también se han producido lanzamientos importantes. Uno de los más destacados fue el CUPRA Born. Un modelo que vio la luz en 2021 siendo el primer coche eléctrico de producción en serie de SEAT S.A. y cuya entrada en escena marcaría el compromiso de la recién estrenada CUPRA con la movilidad completamente eléctrica.",
-        "imagen": "images/noticia3.jpg"
+        "imagen": "images/noticia3.jpg",
+        "width":  "800",
+        "height": "450"
     },
     {
         "nombre": "noticia4",
         "titulo": "Jaguar Land Rover suspende sus envíos a EEUU en abril por los aranceles",
         "contenido": "El fabricante británico de automóviles asegura que se trata de una acción a corto plazo mientras desarrollamos nuestros planes a mediano y largo plazo con nuestros socios comerciales<br>Jaguar Land Rover Automotive, uno de los mayores fabricantes de automóviles británicos, dijo este sábado que la pausa tendría lugar este mes y que EEUU es un mercado importante para las marcas de lujo de JLR<br>Se prevé que la industria automovilística británica se vea muy afectada por los nuevos aranceles, que llegan en un momento en que los fabricantes de automóviles británicos luchan contra la caída de la demanda en su país y la necesidad de reequipar sus plantas para la transición a los vehículos eléctricos.<br>La industria ya se enfrenta a múltiples vientos en contra y este anuncio llega en el peor momento posible como dijo la semana pasada Mike Hawes, director ejecutivo de la Sociedad de Fabricantes y Comerciantes de Automóviles del Reino Unido (SMMT).",
-        "imagen": "images/noticia4.jpg"
+        "imagen": "images/noticia4.jpg",
+        "width":  "646",
+        "height": "431"
     }
 
 ]

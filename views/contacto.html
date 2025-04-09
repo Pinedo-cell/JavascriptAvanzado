@@ -8,6 +8,7 @@
         integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="">
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"></script>   
 </head>
 <body>  
     <header>
@@ -16,7 +17,7 @@
             <li><a href="galeria.html">Galería</a></li>
             <li><a href="presupuesto.html">Presupuestos</a></li>
             <li class="actual"><a href="contacto.html">Contacto</a></li>
-            <li><img src="../images/iconoLogo.jpg" alt="logo"></li>
+            <li><img src="../images/iconoLogo.jpg" class="logo" width="1024" height="1024" alt="logo"></li>
         </ul>
     </header>
 
@@ -29,6 +30,13 @@
           </div>
           
         <div id="mi_mapa" class="mapa"></div>
+        <div id="controles"  class="contacto">
+            <label>
+                <input type="checkbox" id="consentimiento">
+                Acepto compartir mi ubicación
+            </label>
+            <button id="botonRuta" disabled  class="boton-ruta">Mostrar Ruta</button>
+        </div>
                
     </main>
 
@@ -36,17 +44,17 @@
         <ul>
             <li>
                 <a href="https://www.facebook.com/profile.php?id=61574948876670">
-                    <img src="../images/logoFacebook.jpg" class="redes" alt="logo">
+                    <img src="../images/logoFacebook.jpg" class="redes" width="800" height="800" alt="logo">
                 </a>
             </li>
             <li>
                 <a href="https://x.com/coche_mundo">
-                    <img src="../images/logoTwitter.jpg" class="redes" alt="logo">
+                    <img src="../images/logoTwitter.jpg" class="redes"  width="255" height="255" alt="logo">
                 </a>
             </li>
             <li>
                 <a href="https://www.instagram.com/mundocoche80/">
-                    <img src="../images/logoInstagram.jpg" class="redes" alt="logo">
+                    <img src="../images/logoInstagram.jpg" class="redes" width="490" height="488" alt="logo">
                 </a>
             </li>
         </ul>
@@ -58,7 +66,9 @@
         </address>
         <p><a href="avisolegal.html">Aviso legal</a></p>
     </footer>
+
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="../js/contacto.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"></script>
 </body>
 </html>
