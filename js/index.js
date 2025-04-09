@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Cargar noticias
-  fetch('../json/noticias.json')
+  fetch('json/noticias.json')
     .then(res => res.json())
     .then(noticias => {
       const contenedorNoticias = document.getElementById('noticias');
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .catch(err => console.error("Error al cargar noticias:", err));
 
   // Cargar consejos
-  fetch('../json/consejos.json')
+  fetch('json/consejos.json')
     .then(res => res.json())
     .then(consejos => {
       const contenedorConsejos = document.getElementById('consejos');
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .catch(err => console.error("Error al cargar consejos:", err));
 
   // Cargar novedades deportivas
-  fetch('../json/novedades-deportivas.json')
+  fetch('json/novedades-deportivas.json')
     .then(res => res.json())
     .then(novedades => {
       const contenedorNovedades = document.getElementById('novedades-deportivas');
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     })
     .catch(err => console.error("Error al cargar novedades deportivas:", err));
 
-  fetch('../json/novedad-semana.json')
+  fetch('json/novedad-semana.json')
     .then(res => res.json())
     .then(novedades => {
       const novedad = novedades[0];
